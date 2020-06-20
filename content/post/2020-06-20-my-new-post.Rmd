@@ -1,0 +1,10 @@
+---
+title: My New Post
+author: Jeff Brabec
+date: '2020-06-20'
+slug: my-new-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
