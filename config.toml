@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://erum2020jb.netlify.app/"
 languageCode = "en-us"
 title = "eRum2020 Practice Site"
 theme = "hugo-lithium"
